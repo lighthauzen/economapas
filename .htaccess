@@ -1,0 +1,5 @@
+Redirect /pagina1.php /pagina2.php
+
+ErrorDocument 404 /notfound.php
+
+ErrorDocument 500 /servererror.php

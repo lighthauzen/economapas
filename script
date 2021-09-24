@@ -1,0 +1,5 @@
+#!/bin/bash
+
+touch log.txt
+
+watch -n 600 mv log.txt /vat/log/test
